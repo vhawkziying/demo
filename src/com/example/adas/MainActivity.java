@@ -13,7 +13,7 @@ public class MainActivity extends Activity {
 		
 		//sdfskd
 		
-		//µÚÈı´Î²âÊÔ
+		//ç¬¬å››æ¬¡
 	}
 
 	@Override
